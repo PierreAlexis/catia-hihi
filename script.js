@@ -6,7 +6,7 @@ const messages = [
     "Trouduc",
     "Si tu dis non, Je vais être triste...",
     "OH DIS OUI CARALHO",
-    "Puta merda....",
+    "FODA-SE CLIQUE SUR OUI!!!!",
     "Bon ok, je te demande plus...",
     "Je rigole, dis oui wesh ❤️"
 ];
